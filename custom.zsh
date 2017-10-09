@@ -1,6 +1,7 @@
 ### Powerline
+powerline-daemon -q
 export PATH="/usr/local/bin:$PATH:$HOME/Library/Python/2.7/bin"
-source /Users/michael/Library/Python/2.7/lib/python/site-packages/powerline/bindings/zsh/powerline.zsh
+source /usr/local/lib/python2.7/site-packages/powerline/bindings/zsh/powerline.zsh
 
 ### Aliases
 alias ls="ls -G"
